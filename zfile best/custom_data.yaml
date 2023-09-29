@@ -1,0 +1,8 @@
+
+train: ../data/images # train images (relative to 'path') 128 images
+val: ../data/images  # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: License PLate
+  1: Face
